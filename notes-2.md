@@ -19,6 +19,7 @@
 	- Robots vs. people
 		- Robots are meant to be servants and are generally vastly inferior to people
 			- Selling them is fine and moral, and they are not even considered slaves
+			- Slaves are also kept, but are treated much nicer than the droids (pit droid treatment vs Anakin and Shmi's treatment)
 		- Also, Aliens vs. Humans - The humans also look down on the aliens too (According to the Gungans), the major 'good guy' alien (Jar Jar Binks) is incompentent
 	- Technology oddities
 		- Encryption (except crypto-currency), recording, and non-hologram long distance communication doesn't appear to exist
