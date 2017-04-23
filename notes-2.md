@@ -1,0 +1,38 @@
+##### What we need to do:
+- Website:
+	- Make it pretty
+	- Clean up the timeline
+	- Write additional sections
+		- Crime
+		- Errors...
+		- Prof. Ethics
+	- Write bits about different technologies
+		- For each of them, we can write a little or a lot about them
+		- Probably not the focus - the presentation is more important.
+		- We could add (date/probability of production, differences with the real thing)
+		- For the most important tech, we can do a bit more
+	- Edit + grammar check
+		- Change Nubian (people from Sudan) -> Naboo
+
+- Presentation: (Should just be salient points from conclusions)
+  - Overview?
+	- Robots vs. people
+		- Robots are meant to be servants and are generally vastly inferior to people
+			- Selling them is fine and moral, and they are not even considered slaves
+	- Technology oddities
+		- Encryption (except crypto-currency), recording, and non-hologram long distance communication doesn't appear to exist
+		- Technical explanation for "The Force"
+		- Impressive data transfer + processing for Droids
+		- Good camera resolutions?
+		- Robots are self aware
+		- Robots don't have an efficient way to communicate (they talk amongst themselves)
+		- Have some incredibly niche tools
+			- Jedi carry around pocket microscope/short distance communicator, rebreathers, laser swords
+			- Grappling hook + blasters carried by Naboo
+
+	- How it relates to the real world: (maybe?)
+		- Around the time of...
+			- The Clinton Impeachment
+			- War in Kosovo
+		- But George Lucal started writing it in 1994, based on 15 pages he wrote in 1976
+		- "the first film presented to the public with digital projection technology"
