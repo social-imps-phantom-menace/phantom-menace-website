@@ -5,7 +5,7 @@
 	- Write additional sections
 		- Crime
 		- Errors...
-		- Prof. Ethics
+		- Wealth and work
 	- Write bits about different technologies
 		- For each of them, we can write a little or a lot about them
 		- Probably not the focus - the presentation is more important.
@@ -31,10 +31,12 @@
 		- Have some incredibly niche tools
 			- Jedi carry around pocket microscope/short distance communicator, rebreathers, laser swords
 			- Grappling hook + blasters carried by Naboo
-
+		- Droid drivers for tanks? But not most aerial vehicles
 	- How it relates to the real world: (maybe?)
 		- Around the time of...
 			- The Clinton Impeachment
 			- War in Kosovo
 		- But George Lucal started writing it in 1994, based on 15 pages he wrote in 1976
 		- "the first film presented to the public with digital projection technology"
+
+"You know that autopilot that people kept bringing up in their presentations that may have drove it's driver into a truck... Well, in our movie, we have an autopilot that drives a nine year old into a dogfight" (paraphrased)
